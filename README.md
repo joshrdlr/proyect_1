@@ -24,3 +24,5 @@ Asegúrate de tener instaladas las siguientes bibliotecas en tu entorno de Pytho
 - streamlit
 - pandas
 - plotly
+## URL de aplicacion en render 
+https://proyect-1-cpln.onrender.com/
